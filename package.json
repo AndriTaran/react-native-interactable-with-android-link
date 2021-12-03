@@ -1,6 +1,6 @@
 {
   "name": "react-native-interactable-with-android-link",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Upgrade for react-native-interactable",
   "main": "lib/index.js",
   "scripts": {
