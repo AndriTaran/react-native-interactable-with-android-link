@@ -7,26 +7,4 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-
-    <style name="InStoreTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-        <item name="colorDetegoProduct">@color/colorInStore</item>
-        <item name="colorDetegoProductDark">@color/colorInStoreDark</item>
-        <item name="android:windowBackground">@color/windowBackground</item>
-        <item name="bottomSheetDialogTheme">@style/AppBottomSheetDialogTheme</item>
-    </style>
-
-    <style name="AppBottomSheetDialogTheme"
-        parent="Theme.Design.Light.BottomSheetDialog">
-        <item name="bottomSheetStyle">@style/AppModalStyle</item>
-    </style>
-
-    <style name="AppModalStyle"
-        parent="Widget.Design.BottomSheet.Modal">
-        <item name="android:background">@drawable/bg_rounded_bottom_sheet</item>
-    </style>
-
 </resources>

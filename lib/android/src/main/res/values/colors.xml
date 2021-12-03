@@ -3,27 +3,4 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-
-    <color name="colorInStoreDark">#c68033</color>
-    <color name="colorInWarehouse">#f6cf41</color>
-    <color name="colorInWarehouseDark">#9c8125</color>
-    <color name="sectionBackground">#ECECEC</color>
-    <color name="white">#FFFFFF</color>
-    <color name="windowBackground">#FAFAFA</color>
-    <color name="error">#B61245</color>
-    <color name="success">#60B504</color>
-    <color name="separator">#1A000000</color>
-    <color name="expected">#60B504</color>
-    <color name="missing">#B61245</color>
-    <color name="unexpected">#D8A651</color>
-    <color name="neutral">#7F7F7F</color>
-    <color name="expectedDisabled">#A0D368</color>
-    <color name="missingDisabled">#D3718F</color>
-    <color name="unexpectedDisabled">#E8CA97</color>
-    <color name="neutralDisabled">#B2B2B2</color>
-    <color name="textColorLightGray">#979797</color>
-    <color name="textColorDark">#000000</color>
-    <color name="lightBlue">#207CB8</color>
-    <color name="clear">#00000000</color>
-    <color name="red">#FF0000</color>
 </resources>
